@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Topbar/Topbar.iml" filepath="$PROJECT_DIR$/Topbar/Topbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/UIPractice.iml" filepath="$PROJECT_DIR$/UIPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview/gridview.iml" filepath="$PROJECT_DIR$/gridview/gridview.iml" />
       <module fileurl="file://$PROJECT_DIR$/rainbowbar/rainbowbar.iml" filepath="$PROJECT_DIR$/rainbowbar/rainbowbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />
     </modules>
   </component>
 </project>

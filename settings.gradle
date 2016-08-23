@@ -1,1 +1,1 @@
-include ':app', ':rainbowbar', ':Topbar', ':PickerPractice'
+include ':app', ':rainbowbar', ':Topbar', ':PickerPractice', ':gridview', ':spinner'
