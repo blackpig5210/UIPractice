@@ -37,10 +37,6 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
         //3.GridView加载适配器
         //GridView配置事件监听器(OnItenClickListener)
         dataList = new ArrayList<Map<String, Object>>();
-
-
-
-
         adapter = new SimpleAdapter(this, getData(), R.layout.item, new String[]{"image", "text"},
                 new int[]{R.id.image, R.id.text});
         gridView.setAdapter(adapter);

@@ -13,8 +13,10 @@
             <option value="$PROJECT_DIR$/Topbar" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/gridview" />
+            <option value="$PROJECT_DIR$/progressbar" />
             <option value="$PROJECT_DIR$/rainbowbar" />
             <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/webview" />
           </set>
         </option>
         <option name="myModules">
@@ -24,8 +26,10 @@
             <option value="$PROJECT_DIR$/Topbar" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/gridview" />
+            <option value="$PROJECT_DIR$/progressbar" />
             <option value="$PROJECT_DIR$/rainbowbar" />
             <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/webview" />
           </set>
         </option>
       </GradleProjectSettings>
