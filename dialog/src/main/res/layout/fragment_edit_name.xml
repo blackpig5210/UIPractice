@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/id_label_your_name"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:text="Your name"/>
+    <!--imeOption属性的作用是：设置弹出软键盘右下角按钮的作用
+    actionDone为"完成" actionSend为"发送"-->
+    <EditText
+        android:id="@+id/input_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/id_label_your_name"
+        android:imeOptions="actionDone"
+        android:inputType="text"/>
+    <Button
+        android:id="@+id/id_sure_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/input_name"
+        android:layout_alignParentRight="true"
+        android:text="确定"
+        android:textSize="20sp"/>
+</RelativeLayout>

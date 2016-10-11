@@ -12,26 +12,16 @@
             <option value="$PROJECT_DIR$/PickerPractice" />
             <option value="$PROJECT_DIR$/Topbar" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dialog" />
             <option value="$PROJECT_DIR$/gridview" />
             <option value="$PROJECT_DIR$/progressbar" />
             <option value="$PROJECT_DIR$/rainbowbar" />
             <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/viewpager" />
             <option value="$PROJECT_DIR$/webview" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/PickerPractice" />
-            <option value="$PROJECT_DIR$/Topbar" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/gridview" />
-            <option value="$PROJECT_DIR$/progressbar" />
-            <option value="$PROJECT_DIR$/rainbowbar" />
-            <option value="$PROJECT_DIR$/spinner" />
-            <option value="$PROJECT_DIR$/webview" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
